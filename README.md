@@ -2,11 +2,9 @@
 
 A Python command-line tool that finds restriction enzyme recognition sites in a DNA sequence, calculates where each enzyme cuts, predicts the fragment sizes of a digest, and draws a site map and a virtual agarose gel.
 
-Built by **Garv Gupta** (B.Tech Biotechnology) as a bioinformatics portfolio project. Its cut positions are cross-checked against Biopython's `Bio.Restriction`.
+Built by **Garv Gupta** (B.Tech Biotechnology)  Its cut positions are cross-checked against Biopython's `Bio.Restriction`.
 
-![Restriction map](results/JS684847.1_map.png)
 
-![Virtual gel](results/JS684847.1_gel.png)
 
 *Example: EcoRV + PstI + BglII digest of the 884 bp sequence in `data/sample.fasta`.*
 
