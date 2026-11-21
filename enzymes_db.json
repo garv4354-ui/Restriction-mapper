@@ -1,0 +1,16 @@
+{
+  "EcoRI":   {"site": "GAATTC", "cut_top": 1, "cut_bottom": 5},
+  "BamHI":   {"site": "GGATCC", "cut_top": 1, "cut_bottom": 5},
+  "HindIII": {"site": "AAGCTT", "cut_top": 1, "cut_bottom": 5},
+  "XbaI":    {"site": "TCTAGA", "cut_top": 1, "cut_bottom": 5},
+  "BglII":   {"site": "AGATCT", "cut_top": 1, "cut_bottom": 5},
+  "SalI":    {"site": "GTCGAC", "cut_top": 1, "cut_bottom": 5},
+  "NcoI":    {"site": "CCATGG", "cut_top": 1, "cut_bottom": 5},
+  "PstI":    {"site": "CTGCAG", "cut_top": 5, "cut_bottom": 1},
+  "KpnI":    {"site": "GGTACC", "cut_top": 5, "cut_bottom": 1},
+  "EcoRV":   {"site": "GATATC", "cut_top": 3, "cut_bottom": 3},
+  "SmaI":    {"site": "CCCGGG", "cut_top": 3, "cut_bottom": 3},
+  "HaeIII":  {"site": "GGCC",   "cut_top": 2, "cut_bottom": 2},
+  "HincII":  {"site": "GTYRAC", "cut_top": 3, "cut_bottom": 3},
+  "AvaII":   {"site": "GGWCC",  "cut_top": 1, "cut_bottom": 4}
+}
